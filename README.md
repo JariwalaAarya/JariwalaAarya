@@ -1,7 +1,7 @@
 ### Hi there 👋
--I am Aarya Jariwala
--Profession :- Student
--I am currently learning Python,Numpy and MySQL
+# I am Aarya Jariwala
+# Profession :- Student
+# I am currently learning Python,Numpy and MySQL
 <!--
 **JariwalaAarya/JariwalaAarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
